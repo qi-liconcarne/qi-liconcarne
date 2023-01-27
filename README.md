@@ -2,13 +2,13 @@
 
 ### A opinionated e-commerce developer from Berlin
 
-- 🔭 I’m currently working on **hygra**
+- 🔭 I’m currently working on **hygra** , the eCommerce Application serving [www.gravis.de]
 
-- 🌱 I’m currently learning **SPRING, angular**
+- 🌱 I’m currently learning **SPRING, angular, variantproducts in SAP Commerce**
 
 - 💬 Ask me about **ApplePay**
 
-- 📫 How to reach me **Tom.Zimmerlinkat@md.de**
+- 📫 How to reach me **Tom.Zimmerlinkat@freenet.ag**
 
 - 📄 Know about my experiences [https://colibriofservice.de/ncv.html](https://colibriofservice.de/ncv.html)
 
